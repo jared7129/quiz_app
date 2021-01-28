@@ -8,7 +8,7 @@ The Application is a Quiz application  built using React JS. Here are the steps 
 cd into the folder you would like the project to be stored. Then clone the project:
 
 ```
- git clone https://github.com/rub9542/Hotel-Reservation-management-system.git
+ git clone https://github.com/jared7129/quiz_app.git
  ```
  
  ### Step 2
